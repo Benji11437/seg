@@ -1,0 +1,7 @@
+envgstrim/
+.gitignore/
+*.envgstrim
+*.envgstrim.*
+myens/
+*.myens
+*.myens.*
